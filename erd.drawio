@@ -167,7 +167,7 @@
             <mxRectangle height="30" width="150" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HyFgNeN3jaJCmMXdGxgQ-38" parent="HyFgNeN3jaJCmMXdGxgQ-35" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" value="int" vertex="1">
+        <mxCell id="HyFgNeN3jaJCmMXdGxgQ-38" parent="HyFgNeN3jaJCmMXdGxgQ-35" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" value="numeric" vertex="1">
           <mxGeometry height="30" width="150" x="180" as="geometry">
             <mxRectangle height="30" width="150" as="alternateBounds" />
           </mxGeometry>
@@ -296,7 +296,7 @@
             <mxRectangle height="30" width="150" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HyFgNeN3jaJCmMXdGxgQ-86" parent="HyFgNeN3jaJCmMXdGxgQ-83" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" value="int" vertex="1">
+        <mxCell id="HyFgNeN3jaJCmMXdGxgQ-86" parent="HyFgNeN3jaJCmMXdGxgQ-83" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" value="numeric" vertex="1">
           <mxGeometry height="30" width="149" x="180" as="geometry">
             <mxRectangle height="30" width="149" as="alternateBounds" />
           </mxGeometry>
